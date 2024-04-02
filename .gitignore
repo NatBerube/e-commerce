@@ -7,7 +7,6 @@
 # you can delete this whole section/until Configuration.
 wp-admin/
 wp-includes/
-index.php
 local-xdebuginfo.php
 license.txt
 readme.html
